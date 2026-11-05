@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-joomla-migration-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-joomla-migration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-joomla-migration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/joomla-migration.md",
+  "presentationPlan": "projects/cms/nuxt/joomla-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
